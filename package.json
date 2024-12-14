@@ -2,7 +2,7 @@
   "name": "order_form_two",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://leealex88.github.com/order_form_two",
+  "homepage": "https://leealex88.github.io/order_form_two",
   "dependencies": {
     "cra-template": "1.2.0",
     "react": "^19.0.0",
